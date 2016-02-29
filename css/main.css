@@ -1,0 +1,50 @@
+* {
+    font-family: Lato;
+}
+
+header {
+    background: linear-gradient(rgba(30, 50, 70, 0.6), rgba(30, 50, 70, 0.6)), url(../image/large.jpg);
+    width: 100%;
+    background-size: cover;
+    padding-top: 3%;
+}
+
+#logo {
+    width: 230px;
+}
+
+a {
+    margin-right: 20px;
+    font-size: 1.8rem;
+    padding: 10px;
+}
+
+a:hover {
+    background-color: #74A3DB;
+}
+
+h1 {
+    width: 50%;
+    margin: 15% auto 12%;
+}
+
+.prueba-gratuita {
+    background-color: #4E7EB8;
+    opacity: 0.8;
+}
+.prueba-gratuita h3 {
+    margin-top: 0;
+    margin-bottom: 5px;
+}
+
+.probar-btn {
+    font-size: 2.2rem;
+    padding: 5px 10px;
+    border: 2px solid #fff;
+    margin: 10px 0 0 30px;
+}
+
+.probar-btn:hover {
+    background-color: #fff;
+    color: #74A3DB;
+}

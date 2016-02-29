@@ -1,0 +1,35 @@
+.text-white {
+    color: #fff;
+}
+
+.blue {
+    color: #7893AD;
+}
+
+.light-blue {
+    color: #74A3DB;
+}
+
+.pd-3 {
+    padding: 3%;
+}
+
+.pd-5 {
+    padding: 5%;
+}
+
+.float-right {
+    float: right;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.text-right {
+    text-align: right;
+}
+
+p {
+    margin: 0;
+}
