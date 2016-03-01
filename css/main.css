@@ -10,7 +10,7 @@ header {
 }
 
 #logo {
-    width: 230px;
+    width: 100%;
 }
 
 a {
@@ -39,7 +39,7 @@ h1 {
 
 .probar-btn {
     font-size: 2.2rem;
-    padding: 5px 10px;
+    padding: 5px;
     border: 2px solid #fff;
     margin: 10px 0 0 30px;
 }
@@ -47,4 +47,30 @@ h1 {
 .probar-btn:hover {
     background-color: #fff;
     color: #74A3DB;
+}
+
+.icon-circle {
+    width: 120px;
+    background-color: #fff;
+    border-radius: 100%;
+    padding: 45px;
+    box-shadow: -1px 4px 5px 0px rgba(201, 201, 201, 0.62);
+    margin: auto;
+}
+
+.main-icons {
+    font-size: 3rem;
+}
+
+.servicios-h3 {
+    margin: 25px auto;
+}
+
+.servicios-p {
+    width: 75%;
+    margin: 0 auto 30px;
+}
+
+#separador {
+    margin-top: 10%;
 }

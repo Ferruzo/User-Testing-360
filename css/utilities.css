@@ -7,7 +7,11 @@
 }
 
 .light-blue {
-    color: #74A3DB;
+    color: #8BB8FF;
+}
+
+.thin {
+    font-weight: 300;
 }
 
 .pd-3 {
@@ -32,4 +36,24 @@
 
 p {
     margin: 0;
+}
+
+.mg-top {
+    margin-top: 50px;
+}
+
+.w-52 {
+    width: 52%;
+}
+
+.w-60 {
+    width: 60%;
+}
+
+.w-40 {
+    width: 40%;
+}
+
+.lh {
+    line-height: 3.5rem;
 }
